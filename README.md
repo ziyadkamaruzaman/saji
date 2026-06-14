@@ -56,10 +56,10 @@ saji/
 
 ## Tech Stack
 
-Frontend: Streamlit
-Backend: Python, scikit-learn (TF-IDF + cosine similarity)
-Data: Pandas, real Malaysian restaurant reviews
-Deployment: Ready for Streamlit Community Cloud, Hugging Face Spaces, or Railway
+- **Frontend**: Streamlit  
+- **Backend**: Python, scikit-learn (TF-IDF + cosine similarity)  
+- **Data Processing**: Pandas (real Malaysian restaurant reviews)  
+- **Deployment**: Streamlit Community Cloud, Hugging Face Spaces, Railway
 
 
 ## Screenshots
