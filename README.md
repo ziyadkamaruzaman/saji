@@ -70,7 +70,12 @@ saji/
 ![Search](assets/search.png)
 
 ## License
-This project is for educational and personal use.
 
-Made with ❤️ for Malaysian food lovers
-Feel free to contribute or suggest improvements!
+This project is intended for educational and personal use.
+
+---
+
+## Acknowledgements
+
+Built with love for Malaysian food lovers 🇲🇾  
+Feel free to contribute, suggest improvements, or fork the project!
