@@ -1,0 +1,14 @@
+{
+  "exact": {
+    "sushi king": {"status": "non_halal", "reason": "Known to serve non-halal items in some outlets"},
+    "mcdonald s": {"status": "halal", "reason": "Commonly halal-certified in Malaysia (verify outlet)"},
+    "kfc": {"status": "halal", "reason": "Commonly halal-certified in Malaysia (verify outlet)"}
+  },
+  "contains": [
+    {"pattern": "babi", "status": "non_halal", "reason": "Name contains pork term"},
+    {"pattern": "char siew", "status": "non_halal", "reason": "Pork dish keyword"},
+    {"pattern": "bak kut", "status": "non_halal", "reason": "Pork dish keyword"},
+    {"pattern": "wine", "status": "non_halal", "reason": "Alcohol keyword"},
+    {"pattern": "bar", "status": "non_halal", "reason": "Bar keyword"}
+  ]
+}
