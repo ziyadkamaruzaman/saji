@@ -63,7 +63,11 @@ Deployment: Ready for Streamlit Community Cloud, Hugging Face Spaces, or Railway
 
 
 ## Screenshots
-(Add screenshots of your app here later)
+###  Home Page
+![Home](assets/home.png)
+
+###  Search Feature
+![Search](assets/search.png)
 
 ## License
 This project is for educational and personal use.
