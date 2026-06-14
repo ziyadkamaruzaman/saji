@@ -40,6 +40,7 @@ streamlit run app.py
 ```
 
 ## Project Structure
+```bash
 saji/
 ├── app.py                    # Main Streamlit app
 ├── requirements.txt
@@ -51,6 +52,7 @@ saji/
 │   ├── halal.py
 │   └── ...
 └── README.md
+```
 
 ## Tech Stack
 
