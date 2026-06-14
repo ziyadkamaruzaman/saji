@@ -71,11 +71,10 @@ saji/
 
 ## License
 
-This project is intended for educational and personal use.
-
----
+This project is developed for educational and personal portfolio purposes.
 
 ## Acknowledgements
 
-Built with love for Malaysian food lovers 🇲🇾  
-Feel free to contribute, suggest improvements, or fork the project!
+Built for Malaysian food lovers 🇲🇾  
+
+Contributions, feedback, and suggestions are always welcome — feel free to open an issue or submit a pull request!
